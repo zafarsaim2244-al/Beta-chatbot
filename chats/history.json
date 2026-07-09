@@ -1,0 +1,18 @@
+[
+    {
+        "sender": "You",
+        "message": "hi"
+    },
+    {
+        "sender": "Beta",
+        "message": "Hi there! How can I help you today?"
+    },
+    {
+        "sender": "You",
+        "message": "hu"
+    },
+    {
+        "sender": "Beta",
+        "message": "\"Hu\" is a very short and ambiguous input! It could mean a few different things depending on the context:\n\n1.  **\"Huh?\"** - As in an expression of confusion or surprise.\n2.  **Hungary** - Referring to the country (its ISO country code is HU).\n3.  **Part of a word** - Like \"human,\" \"huge,\" \"humor,\" \"husband,\" etc.\n4.  **An abbreviation** or something specific to your current task.\n\nCould you please provide a little more context or clarify what you mean by \"hu\"?"
+    }
+]
